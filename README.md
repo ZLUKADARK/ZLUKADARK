@@ -7,7 +7,7 @@
 <div id="header" align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ZLUKADARK&show_icons=true&theme=graywhite&hide_border=true&card_width=700"
+      srcset="https://github-readme-stats.vercel.app/api?username=ZLUKADARK&show_icons=true&theme=graywhite&hide_border=true&card_width=700&custom_title=My%20GitHub"
       media="(prefers-color-scheme: light)"
     />
     <source
